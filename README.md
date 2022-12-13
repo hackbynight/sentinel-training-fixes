@@ -1,5 +1,5 @@
 # sentinel-training-fixes
-Collection of edits and fixes for the busted up sentinel training docs
+Collection of edits and work arounds for the busted up sentinel training docs
 
 
 + Add a watchlist with _HighRiskApps data during deployment in module 1 or modules 4+ won't work.

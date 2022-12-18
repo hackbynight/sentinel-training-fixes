@@ -1,5 +1,5 @@
 # sentinel-training-fixes
-Collection of edits and work arounds for the busted up sentinel training docs
+Collection of edits and work arounds for the sentinel training docs found on the [official repository for the full lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab).
 
 
 + Add a watchlist with _HighRiskApps data during deployment in module 1 or modules 4+ won't work.

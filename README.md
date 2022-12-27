@@ -13,3 +13,5 @@ Collection of edits and work arounds for the sentinel training docs found on the
       1. delete TenableIOVulnerabilities from logs>functions>Workspace functions> 
       2. install from content hub sentinel>content hub>search solution>reinstall 
       3. see solution file here or on official sentinel repo>...>solutions
+
+etc
